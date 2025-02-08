@@ -1,16 +1,19 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/9a9a7d9c-e576-40fc-aaf9-77e77d3df98e)
 
-<!--
-**becangetcontech/becangetcontech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Ben Kimim**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Becangetcontech {
+    constructor(options) {
+        this.name = "Umut",
+        this.sex = "man",
+        this.length = "1.7",
+        this.type = "human",
+        this.job = "developer",
+        this.weight = "85",
+        this.age = "21",
+        this.discord.tag = "Becangetcontech"
+    };
+}
+
+module.exports = Papaz
