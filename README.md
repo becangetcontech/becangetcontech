@@ -3,17 +3,5 @@
 
 **Ben Kimim**
 
-class Becangetcontech {
-    constructor(options) {
-        this.name = "Umut",
-        this.sex = "man",
-        this.length = "1.7",
-        this.type = "human",
-        this.job = "developer",
-        this.weight = "85",
-        this.age = "21",
-        this.discord.tag = "Becangetcontech"
-    };
-}
+![image](https://github.com/user-attachments/assets/c2b7abd9-15ea-4eae-aa23-85372378a21c)
 
-module.exports = Papaz
